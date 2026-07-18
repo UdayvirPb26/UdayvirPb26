@@ -97,23 +97,7 @@
 
 ✔ Interview Insights
 
----
 
-## 🚗 Parking Slot Detection
-
-YOLOv8-powered Smart Parking Detection
-
----
-
-# 📈 XP Progress
-
-<img src="https://github-readme-stats.vercel.app/api?username=UdayvirPb26&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UdayvirPb26&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayvirPb26&layout=compact&theme=tokyonight"/>
-
----
 
 # 🏆 Achievement Board
 
