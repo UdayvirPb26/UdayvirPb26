@@ -139,9 +139,9 @@ Learning:
 
 # 📫 Warp Pipe
 
-📧 Email: your-email@example.com
+📧 Email: udayvir2002@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/udayvir-singh-rai-700254250/)
 
 🌐 Portfolio: Coming Soon
 
